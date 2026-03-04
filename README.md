@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋 I'm Parth Fadadu
 
-<!--
-**parth2611/parth2611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### React Native Developer
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=React+Native+Developer;Mobile+App+Developer;3.5%2B+Years+Experience" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+React Native  
+TypeScript  
+Redux  
+Firebase  
+REST APIs  
+
+## GitHub Stats
+
+![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parth2611&show_icons=true&theme=tokyonight)
