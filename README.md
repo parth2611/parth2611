@@ -1,16 +1,10 @@
 # Hi 👋 I'm Parth Fadadu
 
-### React Native Developer
-
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=React+Native+Developer;Mobile+App+Developer;3.5%2B+Years+Experience" />
 </p>
 
 ### 📱 React Native Developer | 3.5+ Years Experience | Mobile App Specialist
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=React+Native+Developer;Mobile+App+Developer;TypeScript+%7C+Redux+%7C+Firebase;Building+Scalable+Mobile+Applications;Performance+Optimization+Specialist" />
-</p>
 
 ---
 
@@ -164,16 +158,6 @@ AI-powered mobile application integrating OpenAI APIs.
 
 ---
 
-# 📈 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth2611&layout=compact&theme=tokyonight" />
-
-</p>
-
----
-
 # 🏆 Achievements
 
 * 🏅 **Debugging Dynamo Award** – Mayora Infotech (2022)
@@ -194,7 +178,7 @@ AI-powered mobile application integrating OpenAI APIs.
 
 <p align="center">
 
-<a href="https://linkedin.com/in/parth-faldu">
+<a href="https://www.linkedin.com/in/parth-fadadu2611">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
