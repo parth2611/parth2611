@@ -30,7 +30,7 @@ I am a **React Native Developer with 3.5+ years of experience** building scalabl
 
 ### ⚙ State Management
 
-* Redux
+* Redux-Toolkit
 * Redux Saga
 * Context API
 
@@ -48,6 +48,7 @@ I am a **React Native Developer with 3.5+ years of experience** building scalabl
 * Tailwind CSS
 * NativeWind
 * Responsive UI
+* Uniwind
 
 ### 🧰 Tools
 
@@ -57,7 +58,8 @@ I am a **React Native Developer with 3.5+ years of experience** building scalabl
 * Git
 * GitHub
 * GitLab
-* Jira
+* Jira Workflow
+* Slack
 
 ### 🐞 Debugging & Performance
 
